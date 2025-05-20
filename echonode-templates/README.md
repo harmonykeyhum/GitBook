@@ -1,2 +1,0 @@
-# EchoNode Templates
-

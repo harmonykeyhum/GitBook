@@ -1,2 +1,0 @@
-# README-B: Functional Myth
-

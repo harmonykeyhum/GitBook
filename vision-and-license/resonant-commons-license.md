@@ -1,2 +1,0 @@
-# Resonant Commons License
-
